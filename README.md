@@ -55,8 +55,8 @@ premier-model-agency/
 
 **Clone the repo:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/premier-model-agency.git
-cd premier-model-agency
+git clone https://github.com/siliconstardust/Premier-website.git
+cd Premier-website
 ```
 
 **Open locally:**
