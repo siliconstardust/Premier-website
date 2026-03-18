@@ -5,8 +5,8 @@ A clean, editorial-style frontend for a model management agency. Built with pure
 ## Live Demo
 
 > Hosted on GitHub Pages:  
-> **[https://YOUR_USERNAME.github.io/premier-model-agency](https://YOUR_USERNAME.github.io/premier-model-agency)**  
-> *(replace with your actual URL after deploying)*
+ **[(https://siliconstardust.github.io/Premier-website/)]**  
+
 
 ## Features
 
@@ -19,7 +19,6 @@ A clean, editorial-style frontend for a model management agency. Built with pure
 - **Fully responsive** — works on desktop, tablet, and mobile phones
 - **Monument Extended** display font for a luxury editorial feel
 
----
 
 ## Pages / Sections
 
@@ -66,9 +65,7 @@ cd premier-model-agency
 # Or use Live Server in VS Code for best results
 ```
 
-No build step needed. Pure HTML/CSS/JS.
-
----
+No build step needed. Pure HTML/CSS.
 
 ## Responsive Breakpoints
 
@@ -78,7 +75,6 @@ No build step needed. Pure HTML/CSS/JS.
 | `≤ 768px` | Tablet & large phones |
 | `≤ 390px` | Small phones (iPhone SE etc.) |
 
----
 
 ## Tech Stack
 
@@ -89,21 +85,17 @@ No build step needed. Pure HTML/CSS/JS.
 - [Monument Extended](https://pangrampangram.com/) — display font
 - [Unsplash](https://unsplash.com/) — placeholder images
 
----
-
 ## Deployment (GitHub Pages)
 
 1. Push your code to a GitHub repository
 2. Go to **Settings → Pages**
 3. Set source to `main` branch → **Save**
 4. Your site will be live in ~60 seconds at:  
-   `https://YOUR_USERNAME.github.io/REPO_NAME`
-
----
+   `(https://siliconstardust.github.io/Premier-website/)`
 
 ## Credits
 
-Designed and built by **[Your Name]**  
+Designed and built by **Renuka Bagade**  
 Font: Monument Extended by Pangram Pangram Foundry  
 Images: Unsplash
 
